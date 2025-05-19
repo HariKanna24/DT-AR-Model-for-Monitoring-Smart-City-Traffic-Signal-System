@@ -1,0 +1,10 @@
+| Component        | Description                                   | Pin/Port         |
+|------------------|-----------------------------------------------|------------------|
+| ESP8266 Module   | Wi-Fi microcontroller for IoT connectivity    | N/A              |
+| TL1 Green LED    | Traffic light 1 green LED control              | D1               |
+| TL1 Yellow LED   | Traffic light 1 yellow LED control             | D2               |
+| TL1 Red LED      | Traffic light 1 red LED control                | D3               |
+| TL2 Green LED    | Traffic light 2 green LED control              | D4               |
+| TL2 Yellow LED   | Traffic light 2 yellow LED control             | D5               |
+| TL2 Red LED      | Traffic light 2 red LED control                | D6               |
+| Wi-Fi Network    | Network for device communication               | SSID: Iiraa      |
