@@ -17,6 +17,6 @@ This project integrates a digital twin and AR (Augmented Reality) interface for 
 - Augmented Reality model for smart city overview
 - Digital twin interface for live monitoring
 
-## Project Screenshot
+## Project Prototype
 
-![Traffic Signal System](images/traffic_signal_screenshot.png)
+![Traffic Signal System](https://github.com/HariKanna24/DT-AR-Model-for-Monitoring-Smart-City-Traffic-Signal-System/blob/main/Prototype.jpg)
